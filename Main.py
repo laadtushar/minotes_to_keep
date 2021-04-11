@@ -14,8 +14,8 @@ chrome_options.add_argument("user-data-dir=C:\\Users\\91940\\AppData\\Local\\Goo
 chrome_options.add_argument('--profile-directory=Profile 2')
 driver = webdriver.Chrome(executable_path="C:\\Program Files (x86)\\chromedriver.exe", chrome_options=chrome_options)
 
-username = "tusharlaad2002@gmail.com"
-password = "JKHVVT69"
+username = "user"
+password = "pass"
 
 #driver.get("https://us.i.mi.com/")
 
